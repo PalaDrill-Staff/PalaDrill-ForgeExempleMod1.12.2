@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "yourmodid",
+    "name": "YourModName",
+    "description": "YourModDescription",
+    "url": "https://exemple.com/mod",
+    "version": "1.0.0",
+    "updateUrl": "",
+    "authorList": ["Kisakay"],
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
